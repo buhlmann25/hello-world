@@ -1,2 +1,2 @@
 # hello-world
-Just for learning
+Erstes Repository zum Lernen und Spielen.
